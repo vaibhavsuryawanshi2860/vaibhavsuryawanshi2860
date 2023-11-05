@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **vaibhavsuryawanshi2860@gmail.com**
 
-- 📄 Know about my experiences [Entern at #Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe](Entern at #Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe)
+- 📄 Know about my experiences -
+-  [Entern at #Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe]
+-  https://www.linkedin.com/in/vaibhav-suryawanshi2860/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
