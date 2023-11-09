@@ -7,10 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaibhavsuryawanshi2860](https://github.com/vaibhavsuryawanshi2860)
 
-- 📫 How to reach me **vaibhavsuryawanshi2860@gmail.com**
+-  📧  How to reach me **vaibhavsuryawanshi2860@gmail.com**
 
-- 📄 Know about my experiences -Entern at [#Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe]
-- CHeck On My Linkdin Profile : https://www.linkedin.com/in/vaibhav-suryawanshi2860/
+- ![image](https://github.com/vaibhavsuryawanshi2860/vaibhavsuryawanshi2860/assets/144931384/2c79d630-bd5b-4d4c-b864-5fd95f612fc7)
+ Know about my experiences -Entern at [#Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe]
+- 🆔 CHeck On My Linkdin Profile : https://www.linkedin.com/in/vaibhav-suryawanshi2860/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
