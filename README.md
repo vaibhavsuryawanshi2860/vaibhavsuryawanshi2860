@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavsuryawanshi2860&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavsuryawanshi2860" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vaibhavsuryawanshi2860](https://github.com/vaibhavsuryawanshi2860)
+- 👨‍💻 All projects are available at:[https://github.com/vaibhavsuryawanshi2860](https://github.com/vaibhavsuryawanshi2860)
 
 -  📧  How to reach me **vaibhavsuryawanshi2860@gmail.com**
 
