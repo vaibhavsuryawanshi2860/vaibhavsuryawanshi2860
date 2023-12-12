@@ -1,6 +1,6 @@
 <h1 align="center">Hii 👋, I'am VAIBHAV SURYAWANSHI </h1>
 
-<img align="middle" alt"Developer" width="850" hight="300" src="https://wallpapercave.com/wp/wp6350578.jpg">
+<img align="middle" alt="Developer" width="850" src="https://wallpapercave.com/wp/wp6350578.jpg">
 
 <h3 align="center">[Front-end developer | Web developer]</h3>
 
