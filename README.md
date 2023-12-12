@@ -22,9 +22,9 @@
 <a href="https://instagram.com/vaibhav_2860_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_2860_" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavsuryawanshi2860&show_icons=true&locale=en&layout=compact" alt="vaibhavsuryawanshi2860" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavsuryawanshi2860&show_icons=true&locale=en" alt="vaibhavsuryawanshi2860" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsuryawanshi2860&" alt="vaibhavsuryawanshi2860" /></p>
 
