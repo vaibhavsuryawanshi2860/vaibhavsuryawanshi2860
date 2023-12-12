@@ -15,7 +15,7 @@
 - 📄 Know about my experiences -Entern at [#Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe]
 - 🆔 CHeck On My Linkdin Profile : https://www.linkedin.com/in/vaibhav-suryawanshi2860/
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">-Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhavsuryawanshi2860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavsuryawanshi2860" height="30" width="40" /></a>
 <a href="https://fb.com/vaihav suryawanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaihav suryawanshi" height="30" width="40" /></a>
