@@ -23,7 +23,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavsuryawanshi2860&show_icons=true&locale=en&layout=compact" alt="vaibhavsuryawanshi2860" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavsuryawanshi2860&show_icons=true&locale=en" alt="vaibhavsuryawanshi2860" /></p>
 
