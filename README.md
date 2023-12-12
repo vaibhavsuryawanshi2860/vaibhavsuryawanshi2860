@@ -26,7 +26,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsuryawanshi2860&" alt="vaibhavsuryawanshi2860" /></p>
+
 
 <img align="middle" alt="Developer" width="850" src="https://www.nicepng.com/png/detail/947-9477723_front-end-development-logos-for-example-html-5.png">
 
