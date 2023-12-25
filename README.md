@@ -1,6 +1,6 @@
 <h1 align="center">Hii 👋, I'am VAIBHAV SURYAWANSHI </h1>
 
-<img align="middle" alt="Developer" width="850" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
+<img align="middle" alt="Developer" width="950" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
 
 <h3 align="center">[Front-end developer | Web developer]</h3>
 
