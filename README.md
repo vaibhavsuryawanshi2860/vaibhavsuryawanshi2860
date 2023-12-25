@@ -15,7 +15,7 @@
 - 📄 Know about my experiences -Entern at [#Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe]
 
 
-## Let's Connect ⚡
+## Let's Connect 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vaibhav_2860_?igsh=ejhoNjdpa3luZGx6) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053941875526)  [![Linkedin](https://img.shields.io/badge/Linkedin-12100E?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-suryawanshi2860/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/VAIBHAV_2860?t=qlEWUgty8cl7PY7FAtDEtw&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vaibhavsuryawanshi029?feature=shared) 
 
