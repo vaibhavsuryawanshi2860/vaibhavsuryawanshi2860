@@ -23,7 +23,7 @@
 ### Version Control
  ![git](https://img.shields.io/badge/git-%23039BE5.svg?style=for-the-badge&logo=git)  ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github)
 
- ### Testing
+ ### Testing & Platform(Layout)
   ![jest](https://img.shields.io/badge/jest-CA4245?style=for-the-badge&logo=jest&logoColor=white)
   ![Responsive_web_design](https://img.shields.io/badge/Responsive_web_design-F5788D.svg?style=for-the-badge&logo=Responsive_web_design&logoColor=white)
 
@@ -33,11 +33,6 @@
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%230769AD.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-%23039BE5.svg?style=for-the-badge&logo=Tailwind)
-
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tilakjain123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tilakjain123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
