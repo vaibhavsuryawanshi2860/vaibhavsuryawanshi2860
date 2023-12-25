@@ -21,7 +21,7 @@ Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.sv
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053941875526)  [![Linkedin](https://img.shields.io/badge/Linkedin-12100E?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-suryawanshi2860/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/VAIBHAV_2860?t=qlEWUgty8cl7PY7FAtDEtw&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vaibhavsuryawanshi029?feature=shared) 
 
 ### Version Control
- ![git](https://img.shields.io/badge/git-%23039BE5.svg?style=for-the-badge&logo=git)  ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github)
+ ![git](https://img.shields.io/badge/git-%23039BE5.svg?style=for-the-badge&logo=git)  ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github) ![git](https://img.shields.io/badge/git-FFF?style=for-the-badge&logo=git&logoColor=A86454) 
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
