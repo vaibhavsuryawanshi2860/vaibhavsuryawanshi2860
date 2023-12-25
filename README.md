@@ -23,6 +23,9 @@ Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.sv
 ### Version Control
  ![git](https://img.shields.io/badge/git-%23039BE5.svg?style=for-the-badge&logo=git)  ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github)
 
+ ### Frameworks, Platforms & Libraries
+  ![Responsive web design](https://img.shields.io/badge/Responsive web design-F5788D.svg?style=for-the-badge&logo=Responsive web design&logoColor=white) 
+
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
