@@ -26,7 +26,7 @@ Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.sv
 ### Hosting
 
 ### Frameworks, Platforms & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-%230769AD.svg?style=for-the-badge&logo=Tailwind&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-%230769AD.svg?style=for-the-badge&logo=Tailwind&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%230769AD.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) 
 
 <img align="middle" alt="Developer" width="850" src="https://www.nicepng.com/png/detail/947-9477723_front-end-development-logos-for-example-html-5.png">
 
