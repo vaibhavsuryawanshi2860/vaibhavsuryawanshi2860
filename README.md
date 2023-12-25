@@ -34,5 +34,5 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%230769AD.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-%23039BE5.svg?style=for-the-badge&logo=Tailwind)
 
 
-
+<img align="middle" alt="Developer" width="850" src="https://www.nicepng.com/png/detail/947-9477723_front-end-development-logos-for-example-html-5.png">
  
