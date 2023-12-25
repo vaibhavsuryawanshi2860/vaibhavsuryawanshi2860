@@ -8,12 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavsuryawanshi2860&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavsuryawanshi2860" /> </p>
 
-- 👨‍💻 All projects are available at:[https://github.com/vaibhavsuryawanshi2860](https://github.com/vaibhavsuryawanshi2860)
+
 
 -  📧  How to reach me **vaibhavsuryawanshi2860@gmail.com**
 
 - 📄 Know about my experiences -Entern at [#Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe]
-- 🆔 CHeck On My Linkdin Profile : https://www.linkedin.com/in/vaibhav-suryawanshi2860/
 
 
 ## Let's Connect ⚡
