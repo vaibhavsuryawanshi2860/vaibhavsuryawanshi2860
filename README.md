@@ -17,9 +17,9 @@
 
 <h3 align="left">-Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaibhavsuryawanshi2860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavsuryawanshi2860" height="30" width="40" /></a>
-<a href="https://fb.com/vaihav suryawanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaihav suryawanshi" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhav_2860_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_2860_" height="30" width="40" /></a>
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_dev_) 
+<br><br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/coding_dev_)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@codewithtilak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coding_dev__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithtilak)
 </p>
 
 ### Languages
