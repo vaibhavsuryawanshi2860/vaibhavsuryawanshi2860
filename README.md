@@ -25,7 +25,7 @@
 
  ### Testing
   ![jest](https://img.shields.io/badge/jest-CA4245?style=for-the-badge&logo=jest&logoColor=white)
-  ![Responsive_web_design](https://img.shields.io/badge/Responsive_web_design-CA4245?style=for-the-badge&logo=Responsive_web_design&logoColor=white)
+  ![Responsive_web_design](https://img.shields.io/badge/Responsive_web_design-F5788D.svg?style=for-the-badge&logo=Responsive_web_design&logoColor=white)
 
 
 ### Languages
