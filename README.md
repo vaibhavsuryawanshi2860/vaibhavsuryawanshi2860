@@ -23,7 +23,7 @@ Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.sv
 ### Version Control
  ![git](https://img.shields.io/badge/git-%23039BE5.svg?style=for-the-badge&logo=git)  ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github)
 
- ### Frameworks, Platforms & Libraries
+ ### Layout & Testing
   ![Responsive web design](https://img.shields.io/badge/Responsive web design-F5788D.svg?style=for-the-badge&logo=Responsive web design&logoColor=white) 
 
 ### Languages
