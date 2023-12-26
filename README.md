@@ -15,7 +15,7 @@
 
 
 - ### 📋  Know about my experiences -
-  Entern at **[#Bhratentern #cooerscave #Prodig EdutechyInfotuch <br>
+  Entern at **[#Bhratentern #cooerscave #Prodig <br>EdutechyInfotuch
    #TechnoHack #Iinernpe]**
 
 
