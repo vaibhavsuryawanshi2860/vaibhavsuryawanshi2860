@@ -10,11 +10,12 @@
 
 
 
--  📧  How to reach me **vaibhavsuryawanshi2860@gmail.com**
+- ### 📧  How to reach me -
+**vaibhavsuryawanshi2860@gmail.com**
 
 
--  📋  Know about my experiences -
--  Entern at [#Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe]
+- ### 📋  Know about my experiences -
+  Entern at **[#Bhratentern #cooerscave #Prodig EdutechyInfotuch #TechnoHack #Iinernpe]**
 
 
 
