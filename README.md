@@ -11,7 +11,7 @@
 
 
 - ### 📧  How to reach me -
-**vaibhavsuryawanshi2860@gmail.com**
+  **vaibhavsuryawanshi2860@gmail.com**
 
 
 - ### 📋  Know about my experiences -
