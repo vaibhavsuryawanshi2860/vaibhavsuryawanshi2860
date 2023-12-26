@@ -25,13 +25,13 @@
 ### Version Control
  ![git](https://img.shields.io/badge/git-%23039BE5.svg?style=for-the-badge&logo=git)  ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github)
 
- ### Testing & Platform(Layout)
+ ### Testing & Platform (Layout)
   ![jest](https://img.shields.io/badge/jest-CA4245?style=for-the-badge&logo=jest&logoColor=white)
   ![Responsive_web_design](https://img.shields.io/badge/Responsive_web_design-F5788D.svg?style=for-the-badge&logo=Responsive_web_design&logoColor=white)
 
 
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+### Peogramming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-%2320232a.svg?style=for-the-badge&logo=DSA)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%230769AD.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-%23039BE5.svg?style=for-the-badge&logo=Tailwind)
